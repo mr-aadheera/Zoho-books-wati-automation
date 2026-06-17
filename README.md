@@ -21,13 +21,13 @@ Automated WhatsApp notifications using Zoho Books workflows and WATI API.
 ## Workflow
 
 Invoice Created
-↓
+→
 Zoho Books Workflow
-↓
+→
 API Call
-↓
+→
 WATI
-↓
+→
 WhatsApp Customer
 
 ## Step-by-step procedure
