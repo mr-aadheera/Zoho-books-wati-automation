@@ -1,0 +1,14 @@
+{
+  "template_name": "NAME_OF_THE_TEMPLATE_IN_WATI",
+  "broadcast_name": "Invoice Alert",
+  "parameters": [
+    {
+      "name": "1", //"1" could be any variable you assign in WATI
+      "value": "${CONTACT.CONTACT_NAME}"
+    },
+    {
+      "name": "2",
+      "value": "${INVOICE.INVOICE_URL}"
+    }
+  ]
+}
