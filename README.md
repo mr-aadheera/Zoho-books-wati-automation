@@ -70,4 +70,4 @@ WhatsApp Customer
 - Have this new workflow rule and
 <img width="892" height="513" alt="image" src="https://github.com/user-attachments/assets/9faa1c7e-e82e-4a3a-8547-7dccdd03b947" />
 
-- Use this criteron and proceed.
+- Use this criterion and proceed.
