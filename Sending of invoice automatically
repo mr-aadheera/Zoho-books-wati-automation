@@ -1,6 +1,6 @@
 {
   "template_name": "NAME_OF_THE_TEMPLATE_IN_WATI",
-  "broadcast_name": "Invoice Alert",
+  "broadcast_name": "Invoice Alert", //use "Payment Thanks" if its for automated thanks after payment is made.
   "parameters": [
     {
       "name": "1", //"1" could be any variable you assign in WATI
