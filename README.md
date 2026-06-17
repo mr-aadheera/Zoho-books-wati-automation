@@ -65,3 +65,9 @@ WhatsApp Customer
 - As the above image, select the webhook and the webhook name you created earlier.
 - Click save and you are good to go.
 - The same procedure applies for the Automatic thanks message to customer through wati. But instead of module invoice you should use customer payment.
+<img width="544" height="288" alt="image" src="https://github.com/user-attachments/assets/43c0ec10-fc08-4979-9f85-f51adb2235c2" />
+
+- Have this new workflow rule and
+<img width="892" height="513" alt="image" src="https://github.com/user-attachments/assets/9faa1c7e-e82e-4a3a-8547-7dccdd03b947" />
+
+- Use this criteron and proceed.
