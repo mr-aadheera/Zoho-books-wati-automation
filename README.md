@@ -64,3 +64,4 @@ WhatsApp Customer
 
 - As the above image, select the webhook and the webhook name you created earlier.
 - Click save and you are good to go.
+- The same procedure applies for the Automatic thanks message to customer through wati. But instead of module invoice you should use customer payment.
